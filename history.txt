@@ -1,0 +1,190 @@
+    1  git-v
+    2  git - V
+    3  ssh-keygen
+    4  clear
+    5  ssh-keygen
+    6  cat /c/Users/petru/.ssh/id_ed25519
+    7  -----BEGIN OPENSSH PRIVATE KEY-----
+    8  b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+    9  QyNTUxOQAAACA7/FRc/KECrQuBIQkjoL4/m5kJW478UJXuenaHtalgEAAAAJhEIlAURCJQ
+   10  FAAAAAtzc2gtZWQyNTUxOQAAACA7/FRc/KECrQuBIQkjoL4/m5kJW478UJXuenaHtalgEA
+   11  AAAEAOT6ftDu4b6FmHjImkmkeiTd25cuMpVGpOFCOVGUybYTv8VFz8oQKtC4EhCSOgvj+b
+   12  mQlbjvxQle56doe1qWAQAAAAD3BldHJ1QFRVRl9QZXRydQECAwQFBg==
+   13  -----END OPENSSH PRIVATE KEY----
+   14  clear
+   15  ssh-keygen
+   16  y
+   17  ssh-keygen
+   18  cd /c/Users/petru/.ssh/id_ed25519.pub
+   19  cd /c/Users/petru/.ssh/
+   20  ls
+   21  cat id_ed25519.pub
+   22  cd /c/Users/petru/.ssh/
+   23  ls
+   24  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   25  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   26  grep /petru/.ssh
+   27  locate .ssh
+   28  cd /Users/petru/.ssh
+   29  ls ../petru/.ssh
+   30  cd ../petru/.ssh
+   31  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   32  clear
+   33  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   34  scp -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de:/opt/160924-ptm/PetruVat/test_1.txt ~/c/ICH Python
+   35  scp -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de:/opt/160924-ptm/PetruVat/test_1.txt /c/ICH Python
+   36  scp -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de:/opt/160924-ptm/PetruVat/test_1.txt ../c/ICH Python/
+   37  scp -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de:/opt/160924-ptm/PetruVat/test_1.txt /c/ICH_Python/
+   38  ssh -i /c/Users/innag/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   39  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   40  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   41  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   42  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   43  git config --global petruvatov@gmail.com "Petru"
+   44  git config --global PetruVat "Petru"
+   45  git config --global user.name "Petru"
+   46  git config --global user.email "petruvatov@gmail.com" 
+   47  git config --global user.name "PetruVat"
+   48  git config --list
+   49  git init
+   50  exit
+   51  pwd
+   52  touch text.txt
+   53  ls -la
+   54  ls -la text.txt
+   55  chmod u+rwx,g+rx,o+ text.txt
+   56  ls -la text.txt
+   57  sudo
+   58  chmod 755 text.txt
+   59  ls -la text.txt
+   60  chmod u+rwx,g+rx,o+r text.txt
+   61  ls -la text.txt
+   62  su
+   63  sudo
+   64  gedit
+   65  pico
+   66  vim
+   67  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   68  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   69  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   70  ps -eo
+   71  ps -eo pid,ppid,cmd
+   72  ps
+   73  ps -e pid,ppid,cmd
+   74  ps -e -o pid,ppid,cmd
+   75  ps --help
+   76  ssh -i /C/users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   77  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   78  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   79  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   80  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   81  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   82  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   83  history
+   84  clear
+   85  cd /c/ICH_Python/git_hub
+   86  git init
+   87  exit
+   88  cd /c
+   89  ls
+   90  cd /ICH_Python
+   91  cd /c/ICH_Python
+   92  ls
+   93  cd /c/ICH_Python/git_hub
+   94  git status
+   95  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   96  git status
+   97  cd /c/users/petru
+   98  ls -la
+   99  clear
+  100  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  101  cd ~
+  102  ls -la
+  103  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  104  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  105  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  106  vimtutor
+  107  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  108  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  109  cd /c/users/
+  110  ls
+  111  cd /c/users/petru/
+  112  ls
+  113  cd /c/
+  114  ls
+  115  cd /c/ICH_Python/
+  116  ls
+  117  cd /c/ICH_Python/presentation_8
+  118  git clone https://github.com/PetruVat/prezentaion_8.git
+  119  ls
+  120  cd /c/ICH_Python/presentation_8/presentation_8
+  121  cd /c/ICH_Python/presentation_8/prezentation_8
+  122  cd /c/ICH_Python/presentation_8/prezentaion_8
+  123  git checkout -b feature1
+  124  touch file1.txt
+  125  echo 'this is comment' >> file1.txt
+  126  echo 'this is feature1' >> file1.txt
+  127  [200~
+  128  git log --oneline --graph --all --decorate
+  129  git log --oneline --graph --all --decorate
+  130  exit
+  131  cd /c/
+  132  ls
+  133  cd /c/ICH_Python/
+  134  ls
+  135  cd /c/ICH_Python/Linux/
+  136  la
+  137  ls
+  138  touch myfirstbashscript.sh
+  139  vim myfirstbashscript.sh 
+  140  chmod +x myfirstbashscript.sh 
+  141  ./myfirstbashscript.sh 
+  142  history
+  143  history | tail -n 8 >> myfirstbashscript.sh 
+  144  ./myfirstbashscript.sh 
+  145  vim myfirstbashscript.sh 
+  146  mv myfirstbashscript.sh myfirstbashscript.txt
+  147  clear
+  148  mkdir git_branch
+  149  cd /git_branch
+  150  cd /Lnux/git_branch
+  151  cd git_branch/
+  152  git init
+  153  git checkout -b gitignore
+  154  wget https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  155  vim .gitignore
+  156  git add .gitignore 
+  157  git commit -m "Добавлен файл .gitignore"
+  158  git remote add origin https://github.com/PetruVat/git_branch.git
+  159  git push -u origin gitignore
+  160  git status
+  161  history
+  162  ssh -i /c/Users/petru/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  163  cd ../
+  164  git clone https://github.com/PetruVat/Git_Br_DZ12.git
+  165  cd Git_Br_DZ12/
+  166  git checkout -b feature
+  167  echo "я делаю домашнее задание номер 12" > README.md
+  168  echo "*.tmp" > gitignore
+  169  echo "*.tmp" > .gitignore
+  170  git add README.md .gitignore 
+  171  git commit -m "Add readme.md and .gitignore"
+  172  git push -u origin feature
+  173  git commit --amend -m "Add readme.md and .gitignore - amend"
+  174  git push -u origin feature --force
+  175  git checkout main
+  176  git checkout master
+  177* 
+  178  git checkout main
+  179  git branch 
+  180  git checkout feature
+  181  git checkout master
+  182  git checkout main
+  183  git branch -m master main
+  184  git checkout origin
+  185  git checkout main
+  186  git checkout -b main
+  187  git push -u origin main
+  188  git merge feature
+  189  git push origin main
+  190  history > history.txt
